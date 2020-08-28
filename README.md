@@ -9,7 +9,7 @@
 A python API that allow user to use the functions and apply it to their own code. With the carefully placed designs and efficient coding, the API maximizes simplicity for ease of use.
 
 ## Example
-'''python
+```python
 yfAPIstock.priceStatus("T")
 print(yfAPIstock.currentPrice("T"))
 print(yfAPIstock.netPrice("T"))
@@ -24,7 +24,7 @@ print(yfAPIstock.currentVolume("T"))
 print(yfAPIstock.bidPrice("T"))
 print(yfAPIstock.askPrice("T"))
 print(yfAPIstock.averageVolume("T"))
-'''
+```
 
 ## Prerequisites
 * This project requires Python 3.5+
