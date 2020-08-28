@@ -3,7 +3,7 @@
 ![Demo1](https://github.com/nguyenkevins/MinMusic/blob/master/app/src/main/res/picA.jpg)
 
 ### Currently in-progress / 70% Completion
-### In-Progress: Market Cap, PE Ratio, Dividend, and Ex-Dividend Function
+### In-Progress: Handshake Failure, Market Cap, PE Ratio, Dividend, and Ex-Dividend Function
 
 ## Summary
 A python API that allow user to use the functions and apply it to their own code. With the carefully placed designs and efficient coding, the API maximizes simplicity for ease of use.
