@@ -8,7 +8,7 @@
 ## Summary
 A python API that allow user to use the functions and apply it to their own code. With the carefully placed designs and efficient coding, the API maximizes simplicity for ease of use.
 
-## Example
+## Function Example
 ```python
 yfAPIstock.priceStatus("T") # Prints out the price status
 
