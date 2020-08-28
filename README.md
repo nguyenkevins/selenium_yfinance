@@ -1,6 +1,6 @@
 # Yahoo Finance API
 
-![Demo1](https://github.com/nguyenkevins/MinMusic/blob/master/app/src/main/res/picA.jpg)
+![Demo1](https://github.com/nguyenkevins/win_api_yfinance/blob/master/stock1.png)
 
 ### Currently in-progress / 70% Completion
 ### In-Progress: Handshake Failure, Market Cap, PE Ratio, Dividend, and Ex-Dividend Function
