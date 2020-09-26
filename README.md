@@ -1,4 +1,4 @@
-# Yahoo Finance API
+# Yahoo Finance Stock API
 
 ![Demo1](https://github.com/nguyenkevins/win_api_yfinance/blob/master/stock1.png)
 
