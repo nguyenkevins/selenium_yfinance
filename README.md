@@ -4,7 +4,7 @@
 ### In-Progress: Handshake Failure, Market Cap, PE Ratio, Dividend, and Ex-Dividend Function
 
 ## Summary
-A python API that allow user to use the functions and apply it to their own code. With the carefully placed designs and efficient coding, the API maximizes simplicity for ease of use.
+A python module that allow user to use the functions and apply it to their own code. With the carefully placed designs and efficient coding, the python module maximizes simplicity for ease of use.
 
 ## Function Example
 ```python
