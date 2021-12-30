@@ -1,6 +1,4 @@
-# Yahoo Finance Stock API
-
-![Demo1](https://github.com/nguyenkevins/selenium_api_yfinance/blob/master/Yahoo%20Finance%20Stock%20API.png)
+# Yahoo Finance Stock Python Module
 
 ### Currently in-progress / 70% Completion
 ### In-Progress: Handshake Failure, Market Cap, PE Ratio, Dividend, and Ex-Dividend Function
